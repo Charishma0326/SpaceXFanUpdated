@@ -1,0 +1,6 @@
+framework module Pods_SpaceX_Fan_SpaceX_FanUITests {
+  umbrella header "Pods-SpaceX_Fan-SpaceX_FanUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
